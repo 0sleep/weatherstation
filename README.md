@@ -8,4 +8,4 @@ SG90 micro servo
 Photoresistor
 10k resistor
 ## Wiring
-[coming soon$^{\text{tm}}$]
+![](circuit.svg)
